@@ -1,0 +1,24 @@
+.studenthome{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    /* background-color: orange; */
+   border-radius: 5px;
+
+background-image:url(../../../images/cur8.jpg); 
+ min-width: 100%;
+ min-height: 100%;
+ background-size: cover;
+ position: -webkit-sticky;
+ background-position: center;
+}
+
+
+
+.instituteNames{
+    text-transform: uppercase;
+    margin: 10px 10px;
+   
+}

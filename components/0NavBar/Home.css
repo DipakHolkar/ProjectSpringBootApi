@@ -1,0 +1,37 @@
+
+  .LoginPage{
+   text-align: center;
+   background-image:url(/src/images/cur6.jpg); 
+   position: fixed;
+   min-width: 100%;
+   min-height: 80%;
+   background-size: cover;
+   background-position: center;
+  }
+
+  .logincardbody {
+    position: fixed;
+    background-color: rgba(0,0,0,0.1);
+  }
+
+  .addstudent{
+    text-align: center;
+    /* background-image:url(/src/images/cur7.jfif);  */
+    position: fixed;
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   background-position: center;
+  }
+
+ 
+  
+  .container:hover .overlay {
+    opacity: 1;
+}
+  
+
+
+
+
+
